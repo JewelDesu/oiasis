@@ -2,4 +2,4 @@
 
 ## working progress
 
-weritten i C++ with libtcod library.
+written i C++ with libtcod library.
